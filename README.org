@@ -4,6 +4,6 @@ Pure Common Lisp library for parsing FASTQ files and multithreading their proces
 
 |---------+------------------------------------------------------------|
 | source  | git:https://github.com/sjl/faster.git                     |
-| commit  | 0000000                                                    |
+| commit  | 6f3b02c                                                    |
 | systems | faster                                                    |
 |---------+------------------------------------------------------------|
