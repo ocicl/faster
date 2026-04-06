@@ -1,0 +1,9 @@
+* faster
+
+A pure Common Lisp library for parsing FASTQ files and multithreading the processing of their contents.
+
+|---------+------------------------------------------------------------|
+| source  | git:https://github.com/sjl/faster.git                     |
+| commit  | 0000000                                                    |
+| systems | faster                                                    |
+|---------+------------------------------------------------------------|
